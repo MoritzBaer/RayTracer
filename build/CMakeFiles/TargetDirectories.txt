@@ -1,3 +1,0 @@
-C:/Users/Moritz/Documents/Projects/Raytracer/build/CMakeFiles/RayTracer.dir
-C:/Users/Moritz/Documents/Projects/Raytracer/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Moritz/Documents/Projects/Raytracer/build/CMakeFiles/ZERO_CHECK.dir
