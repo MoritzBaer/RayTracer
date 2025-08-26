@@ -4,7 +4,7 @@ project(RAY_TRACER)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(RayTracer src/app.cpp)
+add_executable(RayTracer src/app.cpp src/RGBTracer.cpp)
 
 target_include_directories(RayTracer PUBLIC "${CMAKE_SOURCE_DIR}/dependencies/SDL/SDL2-include")
 
