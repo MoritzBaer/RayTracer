@@ -14,7 +14,6 @@
 #define B_VALUE(val) (val)
 #endif
 
-
 class DisplayApp {
 public:
   DisplayApp()
@@ -31,7 +30,7 @@ private:
   SDL_Window *window;
   SDL_Renderer *renderer;
   SDL_Texture *displayTexture;
-  ImageT<480, 9 * 480 / 16, uint32_t> displayImage;
+  ImageT<1600, 900, uint32_t> displayImage;
 };
 
 #undef main
